@@ -1,0 +1,17 @@
+{
+    "name": "administrador/rabbit-mq",
+    "autoload": {
+        "psr-4": {
+            "Administrador\\RabbitMq\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jorge Antonio",
+            "email": "jorgegcmx@gmail.com"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": "^3.0"
+    }
+}
