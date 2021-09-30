@@ -19,6 +19,7 @@ class ComposerStaticInit04dc980f9cabe4d3d86a5fed3a1f6b9b
         array (
             'PhpAmqpLib\\' => 11,
             'ParagonIE\\ConstantTime\\' => 23,
+            'PHPMailer\\PHPMailer\\' => 20,
         ),
         'A' => 
         array (
@@ -38,6 +39,10 @@ class ComposerStaticInit04dc980f9cabe4d3d86a5fed3a1f6b9b
         'ParagonIE\\ConstantTime\\' => 
         array (
             0 => __DIR__ . '/..' . '/paragonie/constant_time_encoding/src',
+        ),
+        'PHPMailer\\PHPMailer\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phpmailer/phpmailer/src',
         ),
         'Administrador\\RabbitMq\\' => 
         array (
